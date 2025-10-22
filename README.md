@@ -19,11 +19,16 @@
 ## Навыки
 
 Языки:  С++, Python
+
 Фреймворки и библиотеки:  Userver, Django, STL
+
 Базы Данных: PostgreSQL
 Контейнеризация: Docker, Docker Compose
+
 Инструменты: Git, Linux
-Брокеры сообщений: 
+
+Брокеры сообщений: rabbitmq
+
 Протоколы взаимодействия: REST, Websocket, gRPC
 
 
