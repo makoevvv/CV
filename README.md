@@ -39,11 +39,13 @@
 Направление: Фундаментальная информатика и информационные технологии (02.03.02)
 
 
-## Pet-проекты / Задачи
+## Pet-проекты / Задачи / Универ
 
 [To-Do](https://github.com/makoevvv/to-do_pet_cpp)
 
 [Client-Server](https://github.com/makoevvv/client-server_pet_cpp)
 
 [LeetCode](https://github.com/makoevvv/LeetCode)
+
+[University](https://github.com/makoevvv/University)
 
