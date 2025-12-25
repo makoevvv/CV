@@ -43,3 +43,5 @@
 
 [To-Do](https://github.com/makoevvv/to-do_pet_cpp)
 
+[Client-Server](https://github.com/makoevvv/client-server_pet_cpp)
+
